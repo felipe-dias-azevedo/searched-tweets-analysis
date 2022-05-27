@@ -1,6 +1,6 @@
 # searched-tweets-analysis
 
-This project does...
+This project search tweets with Twitter Search API and analyze its sentimentals with NLTKs libs
 
 ### Install
 

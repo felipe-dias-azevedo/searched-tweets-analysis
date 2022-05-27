@@ -1,0 +1,404 @@
+[
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "2",
+                1
+            ],
+            [
+                "horas",
+                1
+            ],
+            [
+                "pra",
+                1
+            ],
+            [
+                "taylor",
+                1
+            ],
+            [
+                "conseguir",
+                1
+            ],
+            [
+                "doutorado",
+                1
+            ],
+            [
+                "ter",
+                1
+            ],
+            [
+                "precisado",
+                1
+            ],
+            [
+                "enem",
+                1
+            ],
+            [
+                "sisu",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-18T13:16:29.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "bolsa",
+                2
+            ],
+            [
+                "quase",
+                1
+            ],
+            [
+                "perco",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "pq",
+                1
+            ],
+            [
+                "esqueci",
+                1
+            ],
+            [
+                "assinar",
+                1
+            ],
+            [
+                "diabo",
+                1
+            ],
+            [
+                "frescura",
+                1
+            ],
+            [
+                "c\u00e3o",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-19T15:07:18.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "vai",
+                1
+            ],
+            [
+                "ser",
+                1
+            ],
+            [
+                "data",
+                1
+            ],
+            [
+                "inscri\u00e7\u00e3o",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "2",
+                1
+            ],
+            [
+                "semestre",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-17T20:00:45.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "filhos",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "pessoas",
+                1
+            ],
+            [
+                "mudaram",
+                1
+            ],
+            [
+                "vida",
+                1
+            ],
+            [
+                "educa\u00e7\u00e3o",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-19T08:33:53.000Z"
+    },
+    {
+        "sentiment": true,
+        "frequent": [
+            [
+                "2",
+                5
+            ],
+            [
+                "enem2022",
+                2
+            ],
+            [
+                "algu\u00e9m",
+                1
+            ],
+            [
+                "favor",
+                1
+            ],
+            [
+                "d\u00e1",
+                1
+            ],
+            [
+                "not\u00edcia",
+                1
+            ],
+            [
+                "boa",
+                1
+            ],
+            [
+                "fala",
+                1
+            ],
+            [
+                "saiu",
+                1
+            ],
+            [
+                "edital",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-20T16:19:23.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "ano",
+                1
+            ],
+            [
+                "vem",
+                1
+            ],
+            [
+                "pegar",
+                1
+            ],
+            [
+                "bacana",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "m",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-19T13:21:10.000Z"
+    },
+    {
+        "sentiment": true,
+        "frequent": [
+            [
+                "gostosa",
+                1
+            ],
+            [
+                "formada",
+                1
+            ],
+            [
+                "gra\u00e7as",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-18T03:07:46.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "passei",
+                2
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "nota",
+                1
+            ],
+            [
+                "enem",
+                1
+            ],
+            [
+                "t\u00f4",
+                1
+            ],
+            [
+                "estudando",
+                1
+            ],
+            [
+                "faculdade",
+                1
+            ],
+            [
+                "longe",
+                1
+            ],
+            [
+                "condi\u00e7\u00f5es",
+                1
+            ],
+            [
+                "pagar",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-19T21:54:52.000Z"
+    },
+    {
+        "sentiment": false,
+        "frequent": [
+            [
+                "hora",
+                2
+            ],
+            [
+                "vai",
+                2
+            ],
+            [
+                "faculdade",
+                1
+            ],
+            [
+                "filha",
+                1
+            ],
+            [
+                "recusou",
+                1
+            ],
+            [
+                "prouni",
+                1
+            ],
+            [
+                "1",
+                1
+            ],
+            [
+                "bilh\u00e3o",
+                1
+            ],
+            [
+                "vezes",
+                1
+            ],
+            [
+                "agora",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-14T23:55:29.000Z"
+    },
+    {
+        "sentiment": true,
+        "frequent": [
+            [
+                "rede",
+                2
+            ],
+            [
+                "diria",
+                1
+            ],
+            [
+                "n\u00e9",
+                1
+            ],
+            [
+                "menina",
+                1
+            ],
+            [
+                "literalmente",
+                1
+            ],
+            [
+                "veio",
+                1
+            ],
+            [
+                "periferia",
+                1
+            ],
+            [
+                "passou",
+                1
+            ],
+            [
+                "vida",
+                1
+            ],
+            [
+                "toda",
+                1
+            ]
+        ],
+        "verified": false,
+        "date": "2022-05-17T23:55:59.000Z"
+    }
+]
