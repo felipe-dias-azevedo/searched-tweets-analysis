@@ -25,13 +25,15 @@ def analyze(textstr: str, verified: bool, date: str) -> dict:
     onlytext = ' '.join(regexp.tokenize(text_nolinks))
     words = nltk.word_tokenize(onlytext)
     stopwords = nltk.corpus.stopwords.words("portuguese")
-    frequency = nltk.FreqDist([word.lower() for word in words if
-                               word.lower() not in stopwords and not word.lower().startswith(profanity.getlist())])
+    wordslower = [w.lower() for w in words]
+    frequency = nltk.FreqDist([word for word in wordslower if
+                               word not in stopwords and not word.startswith(profanity.getlist())])
 
     # dateparsed = datetime.strptime(date[:-5], "%Y-%m-%dT%H:%M:%S")
 
     return {
-        "sentiment": positivity,
+        "sentiment": result["compound"],
+        "positive": positivity,
         "frequent": frequency.most_common(10),
         "verified": verified,
         "date": date
